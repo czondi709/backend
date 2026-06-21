@@ -1,0 +1,6 @@
+@KozossegAPI_HostAddress = http://localhost:5129
+
+GET {{KozossegAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

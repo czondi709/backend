@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozosseg.test\\diakcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|solutionrelative:kozosseg.test\\diakcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\controllers\\diakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\controllers\\diakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozosseg.test\\cegmunkacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|solutionrelative:kozosseg.test\\cegmunkacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozosseg.test\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|solutionrelative:kozosseg.test\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozosseg.test\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26154FC8-B20F-4627-89BC-13F22EC0D5AD}|Kozosseg.test\\KozossegAPI.Test.csproj|solutionrelative:kozosseg.test\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\controllers\\cegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\controllers\\cegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\controllers\\jelentkezescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\controllers\\jelentkezescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\model\\diak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\model\\diak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\ng210\\tantargyak\\13A-Backend\\5-WebApi\\Bajnoksag\\BajnoksagApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\auth\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\auth\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\model\\kozossegdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\model\\kozossegdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\model\\dokumentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\model\\dokumentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\model\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\model\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\model\\ceg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\model\\ceg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\gg_szoft2006\\desktop\\kozossegapi_v1.0\\kozossegapi\\model\\jelentkezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\model\\jelentkezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\DbContextHelper.cs",
+              "RelativeDocumentMoniker": "Kozosseg.test\\DbContextHelper.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\DbContextHelper.cs",
+              "RelativeToolTip": "Kozosseg.test\\DbContextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:30:19.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\AuthControllerTest.cs",
+              "RelativeDocumentMoniker": "Kozosseg.test\\AuthControllerTest.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\AuthControllerTest.cs",
+              "RelativeToolTip": "Kozosseg.test\\AuthControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:40:04.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JelentkezesController.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\JelentkezesController.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Controllers\\JelentkezesController.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\JelentkezesController.cs",
+              "RelativeToolTip": "KozossegAPI\\Controllers\\JelentkezesController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:54:40.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiakControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\DiakControllerTest.cs",
+              "RelativeDocumentMoniker": "Kozosseg.test\\DiakControllerTest.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\DiakControllerTest.cs",
+              "RelativeToolTip": "Kozosseg.test\\DiakControllerTest.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAiwKIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:27:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CegMunkaControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\CegMunkaControllerTest.cs",
+              "RelativeDocumentMoniker": "Kozosseg.test\\CegMunkaControllerTest.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\Kozosseg.test\\CegMunkaControllerTest.cs",
+              "RelativeToolTip": "Kozosseg.test\\CegMunkaControllerTest.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:26:35.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Jelentkezes.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Jelentkezes.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Model\\Jelentkezes.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Jelentkezes.cs",
+              "RelativeToolTip": "KozossegAPI\\Model\\Jelentkezes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:36:55.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ceg.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Ceg.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Model\\Ceg.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Ceg.cs",
+              "RelativeToolTip": "KozossegAPI\\Model\\Ceg.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:36:48.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Diak.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Diak.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Model\\Diak.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Diak.cs",
+              "RelativeToolTip": "KozossegAPI\\Model\\Diak.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:25:00.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CegController.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\CegController.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Controllers\\CegController.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\CegController.cs",
+              "RelativeToolTip": "KozossegAPI\\Controllers\\CegController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:14:36.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiakController.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\DiakController.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Controllers\\DiakController.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\DiakController.cs",
+              "RelativeToolTip": "KozossegAPI\\Controllers\\DiakController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:58:13.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KozossegAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:47:46.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KozossegDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\KozossegDbContext.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Model\\KozossegDbContext.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\KozossegDbContext.cs",
+              "RelativeToolTip": "KozossegAPI\\Model\\KozossegDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:36:57.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dokumentum.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Dokumentum.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Model\\Dokumentum.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\Dokumentum.cs",
+              "RelativeToolTip": "KozossegAPI\\Model\\Dokumentum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:38:15.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailVerification.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\EmailVerification.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Model\\EmailVerification.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Model\\EmailVerification.cs",
+              "RelativeToolTip": "KozossegAPI\\Model\\EmailVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:24:21.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Auth\\TokenManager.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Auth\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Auth\\TokenManager.cs",
+              "RelativeToolTip": "KozossegAPI\\Auth\\TokenManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:44:27.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KozossegAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\appsettings.Development.json",
+              "RelativeToolTip": "KozossegAPI\\appsettings.Development.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T10:00:54.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KozossegAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gg_szoft2006\\Desktop\\KozossegAPI_v1.0\\KozossegAPI\\Program.cs",
+              "RelativeToolTip": "KozossegAPI\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:41:15.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\ng210\\tantargyak\\13A-Backend\\5-WebApi\\Bajnoksag\\BajnoksagApi\\Program.cs",
+              "ToolTip": "Y:\\ng210\\tantargyak\\13A-Backend\\5-WebApi\\Bajnoksag\\BajnoksagApi\\Program.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:59:02.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
