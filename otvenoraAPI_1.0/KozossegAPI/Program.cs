@@ -30,8 +30,8 @@ namespace KozossegAPI
 
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("AllowReactApp",
-                    policy => policy.WithOrigins("http://localhost:5173")
+                options.AddPolicy("AllowAll",
+                    policy => policy.AllowAnyOrigin()
                                     .AllowAnyMethod()
                                     .AllowAnyHeader());
             });
@@ -52,7 +52,7 @@ namespace KozossegAPI
                 app.UseSwaggerUI();
             }
 
-            app.UseCors("AllowReactApp");
+            app.UseCors("AllowAll");
 
             app.UseHttpsRedirection();
             app.UseAuthentication();
@@ -99,6 +99,9 @@ namespace KozossegAPI
                     options.AddPolicy(permission, policy => policy.RequireClaim("permission", permission));
                 }
             });
+
+
+            
 
             builder.Services.AddSwaggerGen(
                 options =>
