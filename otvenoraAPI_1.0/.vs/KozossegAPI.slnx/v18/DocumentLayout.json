@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\kiscz\\desktop\\vizsgaremek\\vizsgaremek\\backend\\otvenoraapi_1.0\\kozossegapi\\kozossegapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\kozossegapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\kiscz\\desktop\\vizsgaremek\\vizsgaremek\\backend\\otvenoraapi_1.0\\kozossegapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\kiscz\\desktop\\vizsgaremek\\vizsgaremek\\backend\\otvenoraapi_1.0\\kozossegapi\\kozossegapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|solutionrelative:kozossegapi\\kozossegapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0604B603-9400-5242-61AB-0D1B13572121}|KozossegAPI\\KozossegAPI.csproj|c:\\users\\kiscz\\desktop\\vizsgaremek\\vizsgaremek\\backend\\otvenoraapi_1.0\\kozossegapi\\model\\munka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,15 +147,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kiscz\\Desktop\\Vizsgaremek\\Vizsgaremek\\backend\\otvenoraAPI_1.0\\KozossegAPI\\appsettings.json",
               "RelativeDocumentMoniker": "KozossegAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\kiscz\\Desktop\\Vizsgaremek\\Vizsgaremek\\backend\\otvenoraAPI_1.0\\KozossegAPI\\appsettings.json",
               "RelativeToolTip": "KozossegAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-25T12:40:49.787Z"
+              "WhenOpened": "2026-01-25T12:40:49.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -183,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KozossegAPI.csproj",
               "DocumentMoniker": "C:\\Users\\kiscz\\Desktop\\Vizsgaremek\\Vizsgaremek\\backend\\otvenoraAPI_1.0\\KozossegAPI\\KozossegAPI.csproj",
               "RelativeDocumentMoniker": "KozossegAPI\\KozossegAPI.csproj",
@@ -191,8 +192,7 @@
               "RelativeToolTip": "KozossegAPI\\KozossegAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-22T19:22:56.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T19:22:56.106Z"
             },
             {
               "$type": "Document",
@@ -214,7 +214,7 @@
               "RelativeDocumentMoniker": "KozossegAPI\\Program.cs",
               "ToolTip": "C:\\Users\\kiscz\\Desktop\\Vizsgaremek\\Vizsgaremek\\backend\\otvenoraAPI_1.0\\KozossegAPI\\Program.cs",
               "RelativeToolTip": "KozossegAPI\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAADYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDwAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T18:37:18.157Z",
               "EditorCaption": ""
@@ -347,8 +347,7 @@
               "ToolTip": "C:\\Users\\kiscz\\Desktop\\Vizsgaremek\\Vizsgaremek\\backend\\otvenoraAPI_1.0\\KozossegAPI\\KozossegAPI.csproj",
               "RelativeToolTip": "KozossegAPI\\KozossegAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-22T19:19:19.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T19:19:19.65Z"
             },
             {
               "$type": "Document",

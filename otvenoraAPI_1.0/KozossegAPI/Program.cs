@@ -24,10 +24,11 @@ namespace KozossegAPI
             {
                 throw new ApplicationException("Adatbázis kapcsolat nem található!");
             }
-            
-            builder.Services.AddDbContext<KozossegDbContext>(options => 
+
+            builder.Services.AddDbContext<KozossegDbContext>(options =>
                 options.UseMySQL(connectionString));
 
+            // CORS Szolgáltatás regisztrálása
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll",
@@ -37,7 +38,7 @@ namespace KozossegAPI
             });
 
             builder.Services.AddControllers()
-                .AddJsonOptions(options => 
+                .AddJsonOptions(options =>
                     options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 
             builder.Services.AddEndpointsApiExplorer();
@@ -46,21 +47,24 @@ namespace KozossegAPI
             AddJwtAuthentication(builder);
             var app = builder.Build();
 
+            // Swagger konfiguráció
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
 
+            // A CORS middleware-nek a Routing után, de minden más ELÕTT kell futnia!
+            app.UseRouting();
             app.UseCors("AllowAll");
 
-            app.UseHttpsRedirection();
+            // FIGYELEM: A UseHttpsRedirection-t KIVETTEM! Render + Docker mellé ez nem kell, mert megborítja a CORS-t!
+
             app.UseAuthentication();
             app.UseAuthorization();
             app.MapControllers();
 
             app.Run();
-
         }
 
         private static void AddJwtAuthentication(WebApplicationBuilder builder)
@@ -71,7 +75,7 @@ namespace KozossegAPI
 
             if (string.IsNullOrEmpty(secretKey) || string.IsNullOrEmpty(issuer) || string.IsNullOrEmpty(audience))
             {
-                throw new ApplicationException("Hiba: Hiányzik a JWT konfiguráció az appsettings.json-bõl!");
+                throw new ApplicationException("Hiba: Hiányzik a JWT konfiguráció az appsettings.json-ból!");
             }
 
             var tokenManager = new TokenManager(builder.Configuration);
@@ -99,9 +103,6 @@ namespace KozossegAPI
                     options.AddPolicy(permission, policy => policy.RequireClaim("permission", permission));
                 }
             });
-
-
-            
 
             builder.Services.AddSwaggerGen(
                 options =>
